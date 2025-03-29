@@ -17,6 +17,8 @@ This Power BI dashboard provides a comprehensive analysis of crime trends using 
   - Crime decreased by **122 cases** compared to the previous year.
   - Expected reduction was **47 cases**, but the actual drop was **-359.57%**, indicating a significant improvement.
 ![Crime Analysis Dashboard](crime%20analysis%20power%20bi%201.png)
+  
+![Crime Analysis Dashboard 2](crime%20analysis%20power%20bi%202.png)  
 
 
 ## Visualizations Used
@@ -31,7 +33,7 @@ This Power BI dashboard provides a comprehensive analysis of crime trends using 
   - Offense method and shift distribution
 - **Line Chart**:
   - Crime deviations over time
-![Dashboard Preview]()
+![Crime Analysis Dashboard 3](crime%20analysis%20power%20bi%203.png)  
 
 ## Conclusion
 The analysis highlights theft as the predominant crime, primarily occurring in the evenings and peaking on Fridays. Despite a significant reduction in crime rates, thousands of cases remain unresolved. This dashboard provides actionable insights to enhance crime prevention and resource allocation.
