@@ -16,8 +16,8 @@ This Power BI dashboard provides a comprehensive analysis of crime trends using 
 - **Crime Reduction Trends**:
   - Crime decreased by **122 cases** compared to the previous year.
   - Expected reduction was **47 cases**, but the actual drop was **-359.57%**, indicating a significant improvement.
-![Dashboard Preview](crime analysis power bi 1.png)
-![Dashboard Preview]()
+![Crime Analysis Dashboard](crime%20analysis%20power%20bi%201.png)
+
 
 ## Visualizations Used
 - **Bar Charts**:
